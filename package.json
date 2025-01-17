@@ -1,0 +1,13 @@
+{
+  "name": "modern-component-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adiityyyyya/modern-component-library-with-react-and-storybook.git",
+  "author": "Aditya Sharma <dearadi1234@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
